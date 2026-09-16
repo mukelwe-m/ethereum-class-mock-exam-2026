@@ -180,7 +180,7 @@ one becomes `currency0`. Your code picks the right one in `TODO 2.1`.
 ```
 alphaIsCurrency0        false ______________________________________
 poolId                0x6238100d7dee104d231d44371adb98c6f9311fae97e29a16e97a49c8829cb165
-startingSqrtPriceX96    ______________________________________
+startingSqrtPriceX96    19807040628566084398385987584
 tick after openPool     ______________________________________
 Task2Pool address     0x ______________________________________
 ```
