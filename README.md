@@ -45,6 +45,7 @@ Liquidity router 0x9D7f74d0C41E726EC95884E0e97Fa6129e3b5E99
 Swap router      0xd2a5bC10698FD955D1Fe6cb468a17809A08fd005
 ```
 
+
 > **If you reload the page or change the Environment, everything you deployed is wiped.** You would
 > have to start again from Step 4. Your written code is safe, only the deployments are lost.
 
@@ -133,8 +134,8 @@ Deployment two, your token B: same again, with `Cafeteria Points`, `CAFE`, and t
 recover if you lose them. (Replace the underscores in the table below with your addresses, the 0x is just a hint at what the address should look like, so remove it too before you paste.)
 
 ```
-Token A address 0xd9145CCE52D386f254917e481eB44e9943F39138
-Token B address 0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8
+Token A address 0xddaAd340b0f1Ef65169Ae5E41A8b10776a75482d
+Token B address 0x0fC5025C764cE34df352757e82f7B5c4Df39A836
 ```
 
 ---
