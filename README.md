@@ -134,7 +134,7 @@ recover if you lose them. (Replace the underscores in the table below with your 
 
 ```
 Token A address 0x ______________________________________
-Token B address 0x ______________________________________
+Token B address 0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8
 ```
 
 ---
