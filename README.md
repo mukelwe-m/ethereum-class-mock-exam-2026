@@ -40,9 +40,9 @@ terminal at the bottom. After a few seconds it prints three addresses.
 **Step 5.** Copy those three addresses into the table below. You will paste them repeatedly. (There is a button that says *EDIT* at the top of this page, click it to edit this markdown file.)
 
 ```
-Pool manager     0xd9145CCE52D386f254917e481eB44e9943F39138
-Liquidity router 0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8
-Swap router      0xf8e81D47203A594245E36C48e151709F0C19fBe8
+Pool manager     0x358AA13c52544ECCEF6B0ADD0f801012ADAD5eE3
+Liquidity router 0x9D7f74d0C41E726EC95884E0e97Fa6129e3b5E99
+Swap router      0xd2a5bC10698FD955D1Fe6cb468a17809A08fd005
 ```
 
 > **If you reload the page or change the Environment, everything you deployed is wiped.** You would
